@@ -1,11 +1,13 @@
 # SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
-AIM: To simulate and synthesis finite state machine using Vivado software
+AIM:
+To simulate and synthesis finite state machine using Vivado software
 
-**APPARATUS REQUIRED: **
+APPARATUS REQUIRED: 
 Vivado™ ML 2023.2
 
 **PROCEDURE: **
+
 1.Open Vivado: Launch Xilinx Vivado software on your computer.
 
 2.Create a New Project: Click on "Create Project" from the welcome page or navigate through "File" > "Project" > "New".
