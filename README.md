@@ -1,9 +1,11 @@
 # SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
 AIM:
+
 To simulate and synthesis finite state machine using Vivado software
 
-APPARATUS REQUIRED: 
+APPARATUS REQUIRED:
+
 Vivado™ ML 2023.2
 
 **PROCEDURE: **
