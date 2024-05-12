@@ -8,7 +8,7 @@ APPARATUS REQUIRED:
 
 Vivado™ ML 2023.2
 
-**PROCEDURE: **
+PROCEDURE: 
 
 1.Open Vivado: Launch Xilinx Vivado software on your computer.
 
@@ -128,6 +128,7 @@ ELABRATED DIAGRAM:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-5/assets/1
 
 
 RESULT:
+
 Simulation And Synthesis Finite State Machine is Successfully Verified using Vivado Software.
 
 
